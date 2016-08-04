@@ -1,0 +1,6 @@
+.DS_Store
+.direnv
+.envrc
+.ipynb_checkpoints/
+spambase.data
+spambase.names
